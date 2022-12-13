@@ -41,14 +41,10 @@ FilterChain chain) throws IOException, ServletException {
   chain.doFilter(request, response);
 }
 ````
-* Eine textliche Beschreibung
-* Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
-* Ein gut dokumentierter Code-Fetzen
-* Ein Link zu einem *selbst aufgenommenen* youtube-Video oder `.gif`.
 
 ## Verifikation
 
-✍️ Erklären Sie kurz und bündig, inwiefern die von Ihnen verwendeten Medien zeigen, was Sie gelernt haben.
+Durch die Beschreibung kann man lesen, das ich verstanden habe, wofür ein Filter in JSF geeignet ist. Anhand von den screenshots, wird klar, das ich eine Filterklasse erstellen und dementsprechend konfigurieren kann. Auch durch den ersichtlichen Code ist es ersichtlich das ich verstanden habe was in der Filterklasse für ein Code geschrieben werden muss. 
 
 # Reflektion zum Arbeitsprozess
 
