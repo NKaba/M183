@@ -46,9 +46,13 @@ FilterChain chain) throws IOException, ServletException {
 
 Durch die Beschreibung kann man lesen, dass ich verstanden habe, wofür ein Filter in JSF geeignet ist. Anhand von den Screenshots, wird klar, dass ich eine Filterklasse erstellen und dementsprechend konfigurieren kann. Auch durch den ersichtlichen Code ist es ersichtlich, dass ich verstanden habe, was in der Filterklasse für einen Code geschrieben werden muss. 
 
+
 # Reflektion zum Arbeitsprozess
 
-In diesem Modul wurde mir klar, wie einfach ein Hacker auf einer Seite hacken kann, wenn die Seite nicht sicher ist. Ich habe versucht so viel mitzunehmen wie möglich, weil die Sicherheit einer Seite sehr wichtig ist. Grundsätzlich bin ich mit meiner Arbeitsweise zufrieden, denn ich konnte die meisten Aufträge lösen, jedoch sollte ich das nächste mal die Arbeitsaufträge richtig durchlesen, denn beim Auftrag 1011 habe ich den Auftrag falsch verstanden und habe dann somit eine unvollständige Arbeit abgegeben.
+In diesem Modul wurde mir klar, wie einfach ein Hacker auf einer Seite hacken kann, wenn die Seite nicht sicher ist. Ich habe versucht so viel mitzunehmen wie möglich, weil die Sicherheit einer Seite sehr wichtig ist. Grundsätzlich bin ich mit meiner Arbeitsweise zufrieden, denn ich konnte die meisten Aufträge lösen, jedoch sollte ich das nächste Mal die Arbeitsaufträge richtig durchlesen, denn beim Auftrag 1011 habe ich den Auftrag falsch verstanden und habe dann somit eine unvollständige Arbeit abgegeben.
 
-**VBV**
+
+
+**VBV:**
+
 Damit dass das nächste Mal nicht vorkommt, werde ich mich vor abschliessen einer Arbeit mit meinen Freunden austauschen, sodass ich sicherstellen kann, dass ich den Auftrag richtig verstanden habe. 
